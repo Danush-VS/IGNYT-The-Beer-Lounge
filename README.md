@@ -1,1 +1,1 @@
-To run open terminal and type "python manage.py runserver"
+To run open terminal and type "python manage.py runserver".
